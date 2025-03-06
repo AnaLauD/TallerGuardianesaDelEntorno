@@ -1,0 +1,11 @@
+.areas-especies-container {
+    
+}
+
+.lista-areas-container {
+    max-height: 500px;
+    overflow-y: auto;
+    scrollbar-width: thin; 
+    
+}
+

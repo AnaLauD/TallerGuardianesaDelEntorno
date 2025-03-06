@@ -1,0 +1,7 @@
+.user-logued {
+    cursor: pointer;
+}
+
+.user-logued:hover {
+    color: blue;
+}

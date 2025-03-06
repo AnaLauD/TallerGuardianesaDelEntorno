@@ -1,0 +1,51 @@
+.overlay-user-profile {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 100;
+}
+
+.area-natural-user {
+  max-width: 80% !important;
+  max-height: 80%;
+  background-color: white;
+  border-radius: 10px;
+  padding: 20px;
+  position: relative;
+  
+  overflow-y: auto !important;
+  scrollbar-width: thin; 
+}
+
+.div.form-register::-webkit-scrollbar-button {
+  display: none !important;
+}
+
+.form-register::-webkit-scrollbar {
+  border-radius: 5px !important;
+}
+
+.modal-close {
+  position: absolute;
+  top: 5px;
+  right: 10px;
+  border: none;
+  background: none;
+  color: #000;
+  font-size: 1.5rem;
+  cursor: pointer;
+  
+}
+  
+.map{
+  width: 100%;
+  height: auto;
+  
+}
+

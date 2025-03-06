@@ -1,0 +1,17 @@
+
+.area-especie-container {
+    
+    border-radius: 10px;
+    padding: 10px;
+    cursor: pointer;
+    
+}
+
+
+.thumbnail {
+    /* width: 80px; */
+}
+
+.thumbnail-container {
+    width: 20%;
+}
